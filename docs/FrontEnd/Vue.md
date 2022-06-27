@@ -1,6 +1,6 @@
 ##### 1.vue官网的使用方法
 
-[vue.js 官网：]: cn.vuejs.org
+[vue.js 官网](https://cn.vuejs.org/)
 
 > + 教程和API：
 
